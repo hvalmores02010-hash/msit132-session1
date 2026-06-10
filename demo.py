@@ -1,5 +1,5 @@
 # demo.py
-data = [1, 2, 3, 4, 5]
+data = [1, 2, 3, 4, 9]
 
 square = lambda x: x * x
 is_even = lambda x: x % 2 == 0
